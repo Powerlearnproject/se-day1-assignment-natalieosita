@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
+
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering refers to the process of designing, developing, testing and maintaining software applications and systems.
@@ -16,6 +17,7 @@ Scalability and flexibility: Through the various codes and programs engineered, 
 
 Economic Impact: Software engineering has also created jobs for more people and empowered more people to handle various tasks with much more ease within a short period of time. 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The development of programming languages (e.g., Fortran, C) - High-level programming languages like Fortran provided more abstract, readable, and maintainable code compared to low-level machine code and assembly languages; laying the foundation for modern software development.
@@ -25,6 +27,7 @@ The establishment of software engineering as a discipline in the 1960s - The ter
 The advent of structured programming in the 1970s - Structured programming introduced the use of control structures like loops, conditionals, and subroutines to create clear and logical code structures.
 
 The rise of agile methodologies in the 2000s - Agile methodologies, such as Scrum and Extreme Programming (XP), emerged as a response to the limitations of traditional, rigid software development models like Waterfall. Agile emphasizes flexibility, collaboration, and iterative development.
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -41,6 +44,7 @@ Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall Methodology:
@@ -50,6 +54,7 @@ Examples: Waterfall is suitable for projects with stable and unchanging requirem
 
 Agile Methodology:
 Iterative and Incremental Approach: Agile follows an iterative process where the project is divided into small, manageable iterations (sprints). Each iteration involves planning, designing, coding, testing, and reviewing, allowing for continuous improvement. Agile emphasizes flexibility, collaboration, and the ability to respond to changing requirements and feedback.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -72,6 +77,7 @@ Roles: Creating detailed project plans, timelines, and milestones
        Monitoring project progress and addressing any issues or risks that arise.
        Communicating project status and updates to stakeholders.
 
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs): Comprehensive software platforms offering tools for coding, debugging, and testing.
@@ -91,6 +97,7 @@ Importance: Collaboration: VCS enables multiple developers to work on the same c
 Examples: Git and Subversion
 
 
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
@@ -105,6 +112,7 @@ Effective communication,
 Agile methodologies,
 Prioritization of tasks,
 Regular reassessment of project goals and timelines.
+
 
 
 
@@ -130,6 +138,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 
 Prompt engineering helps avoid that by making your questions clear and specific, so the AI understands exactly what you need.
+
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
