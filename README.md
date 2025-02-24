@@ -55,6 +55,8 @@ Examples: Waterfall is suitable for projects with stable and unchanging requirem
 Agile Methodology:
 Iterative and Incremental Approach: Agile follows an iterative process where the project is divided into small, manageable iterations (sprints). Each iteration involves planning, designing, coding, testing, and reviewing, allowing for continuous improvement. Agile emphasizes flexibility, collaboration, and the ability to respond to changing requirements and feedback.
 
+Examples: Agile is ideal for projects with evolving requirements, such as software development for startups, where user needs and market conditions change rapidly, or for developing mobile apps that require frequent updates and feature enhancements.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
